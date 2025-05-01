@@ -115,3 +115,6 @@ The frontend will run on http://localhost:3000
 ## License
 
 MIT
+
+## Frontend deployed on vercel https://task-tracker-git-main-megha-yadavs-projects.vercel.app
+## Backend deployed on render https://task-tracker-a4a2.onrender.com
